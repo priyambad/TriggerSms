@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Trigger SMS</string>
+    <string name="hint">Password(5 digit)ex-12345.</string>
+    <string name="b1">Change Code</string>
+    <string name="b2">STOP</string>
+    <string name="setpassword">Set Password</string>
+    <string name="alarm">Got Your Phone</string>
+    <string name="ChangePassword">Change Password</string>
+    <string-array name="questions">
+        <item>___Select Security Question___</item>
+        <item>What was your childhood name.</item>
+        <item>What is name of your first GirlFriend</item>
+        <item>Which team will win IPL 2017</item>
+        <item>Who is your favourite teacher</item>
+        <item>Who is your favourite Movie Director</item>
+    </string-array>
+    <string name="answer">Give your Answer</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
